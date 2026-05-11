@@ -419,6 +419,13 @@ section:nth-child(even) {
     font-weight: 500;
 }
 
+a {
+  text-decoration: none;
+  color: #764ba2;
+}
+#github{
+    color: #f8f9fa;
+}
 /* Animations */
 @keyframes fadeInUp {
     to {
